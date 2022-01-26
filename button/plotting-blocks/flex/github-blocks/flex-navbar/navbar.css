@@ -1,0 +1,39 @@
+
+
+
+div {
+    background-color: grey;
+    display: flex;
+    gap: 760px;
+}
+
+.nav {
+    color: white;
+}
+
+h1 {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    display: flex;
+    margin: 20px;
+    
+}
+
+li {
+    color: white;
+    margin: 10px;
+}
+
+.btn {
+    background-color: skyblue;
+    box-shadow: 2px 2px;
+}
