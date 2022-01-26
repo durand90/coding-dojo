@@ -1,0 +1,23 @@
+
+h1 {
+    font-weight: bold;
+    background-color: black;
+    color: rgb(0, 132, 255);
+}
+
+b {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color: purple;
+    color: white;
+}
+
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: cadetblue;
+    color: blue;
+}
