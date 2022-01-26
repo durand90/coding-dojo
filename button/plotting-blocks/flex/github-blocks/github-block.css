@@ -1,0 +1,37 @@
+
+.container {
+    height: 800px;
+    width: 900px;
+    background-color: grey;
+    padding: 10px;
+}
+
+
+img {
+    height: 200px;
+    margin: 20px;
+}
+
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    background-color: chartreuse;
+}
+
+.two {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    background-color: skyblue;
+}
+
+.three {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    background-color: tan;
+}
