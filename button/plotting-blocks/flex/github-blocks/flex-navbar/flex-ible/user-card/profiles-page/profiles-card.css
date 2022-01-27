@@ -1,0 +1,243 @@
+
+.all {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    height: 100px;
+    width: 645px;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: skyblue;
+}
+
+.container {
+    height: 300px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-left: 40px;
+    border-style: solid;
+    border-color: grey;
+    position: absolute;
+    top: 8pxpx;
+}
+
+.user {
+    margin-top: 50px;
+    height: 100px;
+    width: 90px;
+    border: 0px;
+}
+
+.map {
+    height: 15px;
+    width: 10px;
+}
+
+.seattle, .profile {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.gear {
+    height: 17px;
+    width: 16px;
+}
+
+.edit {
+    text-decoration: underline;
+    color: blue;
+}
+
+.word {
+    margin: 0;
+}
+
+.doe {
+    margin: 0;
+}
+
+.bottom {
+    height: 200px;
+    width: 640px;
+    margin-left: 100px;
+    margin-top: 220px;
+    border-style: solid;
+    border-color: grey;
+}
+
+h3 {
+    padding: 10px;
+    margin-top: 0;
+}
+
+h4 {
+    margin-left: 10px;
+}
+
+.dec {
+    color: grey;
+}
+
+.white {
+    color: white;
+    background-color: grey;
+}
+
+.black {
+    font-weight: 300;
+}
+
+.side {
+    height: 200px;
+    width: 250px;
+    margin-top: 35px;
+    margin-left: 0px;
+    border-style: solid;
+    border-color: grey;
+}
+
+.button {
+    background-color: grey;
+    padding: 10px;
+}
+
+.ton, .tone {
+    border-radius: 50%;
+}
+
+.side-pic {
+    margin-top: 15px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: flex;
+}
+
+.side-low {
+    height: 270px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 300px;
+    border-style: solid;
+    border-color: grey;
+    display: flex;
+    flex-direction: column;
+}
+
+.button2 {
+    background-color: grey;
+    padding: 10px;
+}
+
+.side-pic2 {
+    margin-top: 7px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    border-radius: 50%;
+}
+.foot {
+    padding: 8px;
+    text-decoration: underline;
+    width: 250px;
+    margin-top: 6px;
+    margin-left: 0px;
+    color: blue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+
+.way {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.nav-title {
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-right: 0;
+    color: white;
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    margin: 20px;
+    
+}
+
+li {
+    color: white;
+    margin: 10px;
+}
+
+.btn {
+    background-color: skyblue;
+    border: solid;
+    border-color: grey;
+    margin-left: 120px;
+    margin-right: 0;
+}
+
+.nav-links {
+    margin-top: 30px;
+    display: flex;
+    gap: 35px;
+    margin-left: 0;
+}
+
+.one {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin-top: 5px;
+}
+
+.an {
+    display: flex;
+}
+
+.bn {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.ba {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.cn {
+    margin-top: 90px;
+    width: 100px;
+    padding: 5px;
+    color: blue;
+    text-decoration: underline;
+    margin-right: 60px;
+    border-style: solid;
+}
+
+.last {
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
