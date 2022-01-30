@@ -1,0 +1,120 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 70px;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+}
+
+.head {
+    width: 200px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.search {
+    margin: auto;
+    height: 25px;
+    width: 40%;
+    border-style: solid;
+    border-color: black;
+}
+
+.login {
+    height: 22px;
+    width: 50px;
+    color: white;
+    margin: auto;
+    margin-right: 20px;
+    background-color: blue;
+    border-style: solid;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.top-right {
+    height: 100px;
+    width: 200px;
+    border-style: solid;
+}
+
+.you {
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.add {
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 30px;
+    width: 70%;
+    background-color: green;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.ninja-top {
+    display: flex;
+    height: 150px;
+    width: 450px;
+    border-style: solid;
+}
+
+.p-top {
+    margin: auto;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.sub-ninja-top {
+    display: flex;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.noun {
+    margin-left: 15px;
+}
+
+.h2-top {
+    margin-right: 80px;
+}
+
+.top-right-btn {
+    height: 30px;
+    width: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: orange;
+}
+
+.top-left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.body {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+u {
+    text-decoration: underline;
+    color: blue;
+}
