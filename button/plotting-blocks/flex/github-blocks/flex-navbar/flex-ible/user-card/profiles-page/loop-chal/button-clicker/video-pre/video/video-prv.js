@@ -1,7 +1,7 @@
 function play(element) {
-    .play();
+    video.play();
 }
 
 function pause(element) {
-    .pause();
+    video.pause();
 }
