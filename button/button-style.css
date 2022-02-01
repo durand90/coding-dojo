@@ -1,0 +1,38 @@
+
+.one {
+    
+    margin: 40px;
+}
+
+.teach {
+    height: 50px;
+    width: 200px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 25%;
+    
+
+}
+
+.two {
+    margin: 40px;
+}
+
+.plus {
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    background-color: lightblue;
+    color: white;
+    border-radius: 50%;
+    border-color: white;
+}
+
+.create {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 250px;
+    margin: 40px;
+}

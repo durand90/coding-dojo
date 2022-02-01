@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 160px;
+    width: 400px;
+    border-style: solid;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.top {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    height: 30px;
+    width: 50px;
+    border-style: solid;
+    border-color: black;
+    background-color: orange;
+    box-shadow: 2px 2px;
+    position: relative;
+    bottom: 5px;
+}
+
+.this {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+}

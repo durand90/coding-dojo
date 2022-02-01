@@ -1,0 +1,58 @@
+
+.all {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top {
+    height: 100px;
+    width: 640px;
+    background-color: skyblue;
+}
+
+.container {
+    height: 400px;
+    width: 600px;
+    padding-left: 40px;
+    box-shadow: 2px 2px 2px 2px;
+    position: fixed;
+    top: 8pxpx;
+}
+
+.user {
+    margin-top: 50px;
+    height: 100px;
+    width: 90px;
+    border: 0px;
+}
+
+.map {
+    height: 15px;
+    width: 10px;
+}
+
+.seattle, .profile {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.gear {
+    height: 17px;
+    width: 16px;
+}
+
+.edit {
+    text-decoration: underline;
+    color: blue;
+}
+
+.word {
+    margin: 0;
+}
+
+.doe {
+    margin: 0;
+}
